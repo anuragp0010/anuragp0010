@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="54786a90-7ab0-41a7-935b-9e4bf2b9a5c2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <!--
 **anuragp0010/anuragp0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
