@@ -27,6 +27,7 @@ Streamlining CI/CD, automating infrastructure, and proactive monitoring are my p
 ## 🏆 Certifications
 
 *   **GitHub Foundations** (March 2024) -  Validates my core Git/GitHub knowledge.
+*   **Microsoft Certified: Azure Fundamentals - AZ900** (March 2025) - Validates my Azure core services knowledge.
 *   Version Control with Git - Atlassian/Coursera
 *   MLOps Certification
 *   Docker Fundamentals
